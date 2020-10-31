@@ -6,3 +6,4 @@ covers a few tips for how to do so.
 
 
 - Org mode integration via docker : Trying to fix issues
+- Deployment on Azure static webapp
