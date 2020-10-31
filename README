@@ -9,4 +9,5 @@ Idea is simple
     - Automate book build using github actions 
     - Deploy book to netlify 
     - Build org files alongwith md/notebook or rst
+    - Configured to deploy on Azure
 
